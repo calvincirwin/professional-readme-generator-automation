@@ -1,0 +1,29 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "An application that will generate a professional README file using the command line.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calvin Irwin",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvincirwin/Creating-A-Professional-README-File.git"
+  },
+  "keywords": [
+    "readme",
+    "generator",
+    "node"
+  ],
+  "bugs": {
+    "url": "https://github.com/calvincirwin/Creating-A-Professional-README-File/issues"
+  },
+  "homepage": "https://github.com/calvincirwin/Creating-A-Professional-README-File#readme"
+}
